@@ -1,0 +1,8 @@
+Comandos vistos hasta ahora.
+
+git add . -> para agregar los cambios
+git commit -m" descripcion" -> para cerrar la caja
+git push origin <nombre del branch> para enviar los cambios
+
+git checkout <nombre de la rama> -> para cambiar de rama
+git checkout -b <nombre de la rama> -> para crear la rama.
