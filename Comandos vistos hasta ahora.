@@ -6,3 +6,16 @@ git push origin <nombre del branch> para enviar los cambios
 
 git checkout <nombre de la rama> -> para cambiar de rama
 git checkout -b <nombre de la rama> -> para crear la rama.
+
+Git log -> veo todos los commits en la consola
+Git fetch -> chequeo si hay cambios nuevos en el remoto
+Git pull -> traigo los cambios nuevos del remoto.
+
+Este comando se usa para resolver conflictos también
+Git pull --rebase -> traigo los cambios nuevos del remoto en el orden que van
+Git rebase --continue --> sigo el rebase después de arreglar los cambios.
+
+
+
+git   pull    --rebase
+APP |comando| opciones
